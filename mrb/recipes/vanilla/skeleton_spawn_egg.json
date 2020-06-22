@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:skeleton_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "spawn_egg",
+    "pattern": [
+      "OS ",
+      "BEB",
+      "B B"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:skull",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:bone"
+      },
+      "O": {
+        "item": "minecraft:bow"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 34,
+      "count": 1
+    }
+  }
+}

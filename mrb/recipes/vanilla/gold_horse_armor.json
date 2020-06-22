@@ -1,0 +1,36 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:golden_horse_armor"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "  H",
+      "L#C",
+      "B B"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_ingot"
+      },
+      "H": {
+        "item": "minecraft:golden_helmet"
+      },
+      "C": {
+        "item": "minecraft:golden_chestplate"
+      },
+      "B": {
+        "item": "minecraft:golden_boots"
+      },
+      "L": {
+        "item": "minecraft:golden_leggings"
+      }
+    },
+    "result": {
+      "item": "minecraft:horsearmorgold"
+    }
+  }
+  
+}

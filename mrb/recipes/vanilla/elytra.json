@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:elytra"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "LIR"
+    ],
+    "key": {
+      "L": {
+        "item": "sd:elytra_left"
+      },
+      "I": {
+        "item": "minecraft:iron_bars"
+      },
+      "R": {
+        "item": "sd:elytra_right"
+      }
+    },
+    "result": {
+      "item": "minecraft:elytra"
+    }
+  }
+  
+}

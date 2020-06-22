@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:zombie_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "spawn_egg",
+    "pattern": [
+      "RSR",
+      "BEB",
+      "RBR"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:skull",
+        "data": 2
+      },
+      "B": {
+        "item": "minecraft:bone"
+      },
+      "R": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 32,
+      "count": 1
+    }
+  }
+}

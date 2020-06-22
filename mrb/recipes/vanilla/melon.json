@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:melon"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:melon_block"
+      }
+    ],
+    "result": {
+        "item": "minecraft:melon",
+        "count": 7
+    }
+  }
+}

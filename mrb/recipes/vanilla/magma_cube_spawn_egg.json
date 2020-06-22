@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:magma_cube_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "spawn_egg",
+    "pattern": [
+      "MCM",
+      "CEC",
+      "MCM"
+    ],
+    "key": {
+      "M": {
+        "item": "minecraft:magma"
+      },
+      "C": {
+        "item": "minecraft:magma_cream"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 42,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:creeper_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "spawn_egg",
+    "pattern": [
+      "GSG",
+      "BEB",
+      "GBG"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:skull",
+        "data": 4
+      },
+      "B": {
+        "item": "minecraft:bone"
+      },
+      "G": {
+        "item": "minecraft:gunpowder"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 33,
+      "count": 1
+    }
+  }
+}

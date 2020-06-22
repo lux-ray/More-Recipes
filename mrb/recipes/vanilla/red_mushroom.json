@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:red_mushroom"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:red_mushroom_block"
+      }
+    ],
+    "result": {
+        "item": "minecraft:red_mushroom",
+        "count": 4
+    }
+  }
+}

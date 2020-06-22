@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:trident"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " ##",
+      " P#",
+      "p  "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "P": {
+        "item": "minecraft:prismarine",
+        "data": 2
+      }
+    },
+    "result": {
+      "item": "minecraft:trident"
+    }
+  }
+  
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:elytra_right"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "I#",
+      "I#",
+      " #"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "sd:elytra_right"
+    }
+  }
+  
+}

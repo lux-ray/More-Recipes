@@ -1,0 +1,43 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:zombie_pigman_spawn_egg"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "spawn_egg",
+    "pattern": [
+      "WSR",
+      "BEB",
+      "RGR"
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:golden_sword"
+      },
+      "S": {
+        "item": "minecraft:skull",
+        "data": 2
+      },
+      "B": {
+        "item": "minecraft:bone"
+      },
+      "R": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 36,
+      "count": 1
+    }
+  }
+}
