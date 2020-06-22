@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "My DiscordID:Euxcbsks#5316",
+        "name": "More Recipes B",
+        "uuid": "6c495806-4808-4cc3-b4b5-565766e345d6",
+        "version": [0,0,1],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "My DiscordID:Euxcbsks#5316",
+            "type": "data",
+            "uuid": "50cdffe1-835c-4fb7-b7ab-4e24603c69f1",
+            "version": [0,0,1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "aa6b6835-27dd-4b39-8074-277281a30718",
+            "version": [0,0,1]
+        }
+    ]
+}
