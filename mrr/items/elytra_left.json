@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mr:elytra_left",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "elytra_left",
+      "minecraft:render_offsets": "equipment"
+    }
+  }
+}
