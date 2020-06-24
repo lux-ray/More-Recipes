@@ -1,4 +1,3 @@
-# Minecraft-addon_More-Recipes
 More recipes, More fun!
 
 # 介紹
@@ -9,11 +8,9 @@ More recipes, More fun!
 4. 盡可能的不添加新物品！
 ~~如果我還記得的話~~
 
-# 想給建議或一起學習請來這
-1. Discord(首選，我最常在這出沒)
-   * Discord ID:Euxcbsks#5316
-   * 或是加入我的伺服器，連結：https://discord.gg/bNhEhcU
-2. Twitter(不建議，本人不常開Twitter)
-   * Twitter ID:euxcbsks
-   * 個人頁面連結：https://mobile.twitter.com/euxcbsks
+# 所有由我製作的東西
+https://github.com/Euxcbsks/Addon-made-by-Euxcbsks
 
+# 相關連結
+* MRH(More Recipes Hard)，困難版的MR，適合想提高生存難度的玩家
+  * https://github.com/Euxcbsks/Minecraft-addon_More-Recipes-Hard/tree/master
