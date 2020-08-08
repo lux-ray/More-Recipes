@@ -8,9 +8,6 @@ More recipes, More fun!
 4. 盡可能的不添加新物品！
 ~~如果我還記得的話~~
 
-# 所有由我製作的東西
-https://github.com/Euxcbsks/Addon-made-by-Euxcbsks
-
 # 相關連結
 * MRH(More Recipes Hard)，困難版的MR，適合想提高生存難度的玩家
   * https://github.com/Euxcbsks/Minecraft-addon_More-Recipes-Hard/tree/master
